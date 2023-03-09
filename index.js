@@ -40,7 +40,7 @@ const questions = [
         message: "How can users update the tests for your project?"
     },
     {
-        name: 'licence',
+        name: 'license',
         type: 'list',
         message: 'What licence do you use for this repository?',
         choices: ["Apache License 2.0", "GNU General Public License 3.0", "MIT", "None"]
