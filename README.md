@@ -1,12 +1,14 @@
 # Cmd-Line-README-Generator
-Generate a ReadMe file based on user input in command-line, using Inquirer package.
+
+Command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
+
 ## Description
 
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project. 
+When creating an open source project on GitHub, it’s important to have a high-quality README file for the app. 
+This should include info such what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions to the success of the project. 
 
-You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+This app is helping the user create a README file by using a command-line application, to generate the markdown file quickly and easily. This allows the project creator to devote more time to working on the project.
 
-This command-line application dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
 
 The application will be invoked by using the following command:
 
@@ -35,20 +37,23 @@ node index.js
 
 ## Screenshots
 
-![Alt text](assets/images/Screenshot_js-md-terminal.jpg)
+![Js-md-Terminal](assets/images/Screenshot_js-md-terminal.jpg)
 
-![Alt text](assets/images/Screenshot_Terminal.jpg)
+![Teminal](assets/images/Screenshot_Terminal.jpg)
 ## Links to submitted items
 
 * A walkthrough video demonstrating the functionality of the application.
-
+Link to the video: https://watch.screencastify.com/v/nudVveb6sjAQDVOOrREl
 * A sample README.md file for a project repository generated using your application: 
-![Alt text](assets/images/sample_file_generated_using_app.jpg)
-
 https://github.com/Marilena-C/CmdL-README-Generator/blob/main/README-file.md
+![Sample file](assets/images/sample_file_generated_using_app.jpg)
+
+
 
 * The URL of the GitHub repository: 
+
 https://github.com/Marilena-C/CmdL-README-Generator
+
 
 ---
 
